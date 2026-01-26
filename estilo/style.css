@@ -25,6 +25,9 @@
     --fonte-androide:"Android";
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     background-color:var(--cor0);
